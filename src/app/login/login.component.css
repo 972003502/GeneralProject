@@ -1,12 +1,19 @@
+.title {
+  margin: 200px auto 100px auto;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(2, 149, 247);
+}
+
 .login-form {
   max-width: 300px;
   margin: auto;
-  }
+}
   
-  .login-form-forgot {
+.login-form-forgot {
   float: right;
-  }
+}
   
-  .login-form-button {
+.login-form-button {
   width: 100%;
-  }
+}
